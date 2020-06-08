@@ -1,1 +1,1 @@
-# restaurants
+# Restaurants
